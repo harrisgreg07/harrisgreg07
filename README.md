@@ -12,11 +12,11 @@ construction** and **multi-asset market analytics**.
 
 ### 🛠️ What I build
 
-- **[Portfolio Optimizer](https://github.com/gregharris73/portfolio-optimizer)** —
+- **[Portfolio Optimizer](https://github.com/harrisgreg07/portfolio-optimizer)** —
   crisis-aware allocation & sizing using CRRA / Omega utility over a *generative
   multi-regime Monte Carlo engine* (Flight-to-Safety, Rate-Shock, Everything-Fails),
   with out-of-sample validation, per-regime stress tests, and historical backtesting.
-- **[Financial Analytics Dashboard](https://github.com/gregharris73/financial-analytics-dashboard)** —
+- **[Financial Analytics Dashboard](https://github.com/harrisgreg07/financial-analytics-dashboard)** —
   a multi-page suite: ETF holdings valuation (GP/EV & EBITDA/EV yields, trend
   regression, percentile histograms), fundamentals, options Monte Carlo, fund
   flows, and market-regime detection.
@@ -28,7 +28,7 @@ construction** and **multi-asset market analytics**.
 
 Generic, textbook pieces I've factored out and open-sourced:
 
-- **[kelly-sizing](https://github.com/gregharris73/kelly-sizing)** — Kelly /
+- **[kelly-sizing](https://github.com/harrisgreg07/kelly-sizing)** — Kelly /
   fractional-Kelly / CRRA utility-based position sizing, with tests and examples.
 
 ### 🧰 Background
