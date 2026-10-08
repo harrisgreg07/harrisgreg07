@@ -57,7 +57,7 @@ Independently, I design and build analytics tools end to end, focused on
 
 ### 🎓 Also
 
-- **Finance:** passed all three levels of the **CFA Program** (I, II, III) — required qualified work experience incomplete.
+- **Finance:** passed all three levels of the **CFA Program** (I, II, III) — required qualified work experience incomplete for Charter.
 - **Generative AI with Large Language Models** — DeepLearning.AI (2023).
 
 ### ⚙️ Toolkit
