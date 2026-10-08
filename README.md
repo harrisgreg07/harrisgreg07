@@ -1,6 +1,6 @@
 # Hi, I'm Greg Harris 👋
 
-**Quantitative-finance tooling · 20+ years building software in Silicon Valley · passed all three CFA exams**
+**Quantitative-finance tooling · 20+ years building software in Silicon Valley · passed all three levels of the CFA Program**
 
 I design and build analytics tools end to end — the numerical models, the data
 services, and the reactive web UIs — with a focus on **crisis-aware portfolio
@@ -37,7 +37,8 @@ Generic, textbook pieces I've factored out and open-sourced:
   **Lucidworks** on enterprise search (Apache Solr, Fusion) — Lead Support
   Engineer → Technical Account Manager, now focused on **Neural Hybrid Search &
   RAG**. Earlier: senior Java engineer in medical informatics.
-- **Finance:** passed all three **CFA Program** exams (Levels I, II, III).
+- **Finance:** passed all three levels of the **CFA Program** (I, II, III) — not
+  a charterholder; the required qualified work experience was never completed.
 
 ### ⚙️ Toolkit
 
