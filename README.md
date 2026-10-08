@@ -20,10 +20,10 @@ Over a decade at **Lucidworks** keeping mission-critical **Apache Solr** and
   clients and the client-success org; advisory and hands-on across upgrades and,
   increasingly, **Neural Hybrid Search** and **RAG** implementations. Mentored
   junior engineers.
-- **Lead Support Engineer** (2012–2023) — owned the hardest cases: production
+- **Lead Support Engineer** (2012–2023) — production
   cluster outages, root-cause analysis, and remediation on large-scale distributed
-  search clusters; carried on-call for search-stability incidents; the go-to for
-  mentoring within the group. Primary stack: Apache Solr and Lucidworks Fusion.
+  search clusters; carried on-call for search-stability incidents; issue support, debugging;
+  mentoring of other engineers. Primary stack: Apache Solr and Lucidworks Fusion.
 
 Earlier: roughly a decade as a senior **Java** engineer building scalable
 medical-informatics platforms (Spring, Hibernate, RDBMS, search) at Skolar /
