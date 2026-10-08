@@ -7,7 +7,7 @@ reliable at scale, and an independent practice **designing and building
 quantitative-finance tools** end to end — the numerical models, the data services,
 and the reactive web UIs.
 
-🌐 **[portfoliodesigns.io](https://portfoliodesigns.io)** — the finance work in one place
+🌐 **[www.portfoliodesigns.io](https://www.portfoliodesigns.io)** — the finance work in one place
 
 ---
 
